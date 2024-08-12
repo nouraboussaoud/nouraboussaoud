@@ -2,7 +2,7 @@
 
 # Hi there, I'm Nour 👋
 
-I'm a passionate DevOps student from Tunisia, currently learning and working on various technologies to build scalable and efficient solutions.
+I'm a passionate IT student from Tunisia, currently learning and working on various technologies to build scalable and efficient solutions.
 
 - 🌱 I’m currently learning Kubernetes, Docker, and CI/CD pipelines.
 - 📫 How to reach me: nour.aboussaoud@esprit.tn
