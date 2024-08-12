@@ -15,6 +15,7 @@ Here are some of the languages and tools I use regularly:
 - ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 - ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 - ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+- ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 - ![CI/CD](https://img.shields.io/badge/-CI%2FCD-black?style=flat-square&logo=githubactions)
@@ -31,11 +32,4 @@ Here are some of the languages and tools I use regularly:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouraboussaoud&layout=compact&theme=dark)
 
-### 🌐 Find Me Elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/nour-aboussaoud-231096252/)
-- [Facebook](https://www.facebook.com/profile.php?id=100009017423502)
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
