@@ -5,7 +5,6 @@ I'm an IT student from Tunisia, passionate about exploring various technologies 
 
 - 🔭 Currently working on: Kubernetes, Docker, and CI/CD pipelines
 - 🌱 Always learning new things and enhancing my skills in software development
-- 💬 Ask me about: Java, Python, Docker, and more!
 
 ### 🚀 Skills
 
