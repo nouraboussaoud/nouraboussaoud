@@ -1,35 +1,32 @@
-# Hi there, I'm Nour 👋
 
+# Hi! I'm Nour Aboussaoud
+
+## Who am I?
 I'm a passionate IT student from Tunisia, dedicated to learning and working on various technologies to build scalable and efficient solutions.
 
-- 🌱 I’m currently learning **Kubernetes**, **Docker**, and **CI/CD pipelines**.
-- 📫 How to reach me: [nour.aboussaoud@esprit.tn](mailto:nour.aboussaoud@esprit.tn)
+## 🛠️ Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Languages and Tools
+## 📊 GitHub Stats
+![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouraboussaoud&show_icons=true&theme=radical)
 
-Here are some of the languages and tools I use regularly:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouraboussaoud&layout=compact&theme=radical)
 
-- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-- ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-- ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-- ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-- ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-- ![CI/CD](https://img.shields.io/badge/-CI%2FCD-black?style=flat-square&logo=githubactions)
-- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-
-
-
-### 📊 GitHub Stats
-
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nouraboussaoud&show_icons=true&theme=dark)
-
-### 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouraboussaoud&layout=compact&theme=dark)
-
-
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouraboussaoud/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername) <!-- Replace 'yourusername' with your actual Twitter username -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nouraboussaoud)
