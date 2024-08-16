@@ -26,7 +26,4 @@ I'm a passionate IT student from Tunisia, dedicated to learning and working on v
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouraboussaoud&layout=compact&theme=radical)
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouraboussaoud/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername) <!-- Replace 'yourusername' with your actual Twitter username -->
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nouraboussaoud)
+
