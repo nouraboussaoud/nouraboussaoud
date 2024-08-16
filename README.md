@@ -1,4 +1,3 @@
-![Header](https://your-banner-image-url) <!-- Replace with your own banner image URL -->
 
 # Hi there, I'm Nour Aboussaoud 👋
 
