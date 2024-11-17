@@ -1,4 +1,11 @@
+# Hi there, I'm Nour Aboussaoud 👋
+
+## About Me
+I'm an enthusiastic IT student from Tunisia, deeply interested in learning and implementing various technologies to create scalable and efficient solutions. My journey in tech is fueled by curiosity and the desire to innovate.
+
+
 ## 🛠️ Technical Skills
+
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
