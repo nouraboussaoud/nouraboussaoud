@@ -1,9 +1,3 @@
-
-# Hi there, I'm Nour Aboussaoud 👋
-
-## About Me
-I'm an enthusiastic IT student from Tunisia, deeply interested in learning and implementing various technologies to create scalable and efficient solutions. My journey in tech is fueled by curiosity and the desire to innovate.
-
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -29,6 +23,12 @@ I'm an enthusiastic IT student from Tunisia, deeply interested in learning and i
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Frameworks and Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouraboussaoud&show_icons=true&theme=radical)
