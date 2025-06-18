@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nour Aboussaoud
 
-## 💻 IT Engineering Student | Tunisia  
+## 💻IT Engineering Student | Tunisia  
 Full-stack | DevOps | Machine Learning  
 
 [![GitHub](https://img.shields.io/badge/GitHub-nouraboussaoud-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nouraboussaoud)
@@ -13,6 +13,7 @@ Full-stack | DevOps | Machine Learning
 ### Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
