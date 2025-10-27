@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Nour Aboussaoud
 
 ## 💻 IT Engineering Student | Tunisia  
-Full-stack | DevOps | Machine Learning 
+Full-stack | DevOps | Machine Learning   
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour%20Aboussaoud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-aboussaoud-231096252/)
 [![Email](https://img.shields.io/badge/nour.aboussaoud@esprit.tn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nour.aboussaoud@esprit.tn)
 
