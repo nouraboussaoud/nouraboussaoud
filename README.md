@@ -10,7 +10,7 @@ Full-stack | DevOps | Machine Learning
 
 ## ⚙️ Skills
 
-### 🧠 Languages  
+###  Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@ Full-stack | DevOps | Machine Learning
 
 ---
 
-### ⚡ Frameworks & Tools  
+###  Frameworks & Tools  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -37,7 +37,7 @@ Full-stack | DevOps | Machine Learning
 
 ---
 
-### ☁️ DevOps  
+###  DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -51,7 +51,7 @@ Full-stack | DevOps | Machine Learning
 
 ---
 
-### 🌐 Semantic Web  
+###  Semantic Web  
 ![OWL](https://img.shields.io/badge/OWL-Web%20Ontology%20Language-02569B?style=flat-square&logo=semanticweb&logoColor=white)
 ![RDF](https://img.shields.io/badge/RDF-Resource%20Description%20Framework-005A9C?style=flat-square)
 ![SPARQL](https://img.shields.io/badge/SPARQL-Query%20Language-FF9900?style=flat-square)
@@ -67,7 +67,7 @@ Full-stack | DevOps | Machine Learning
 
 ---
 
-## 📊 Stats  
+##  Stats  
 
 ![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouraboussaoud&show_icons=true&theme=radical&hide_title=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouraboussaoud&layout=compact&theme=radical)
