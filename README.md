@@ -67,7 +67,6 @@ Full-stack | DevOps | Machine Learning
 
 ---
 
-##  Stats  
-
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouraboussaoud&show_icons=true&theme=radical&hide_title=true)  
+## 📊 Stats
+![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouraboussaoud&show_icons=true&theme=radical&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouraboussaoud&layout=compact&theme=radical)
